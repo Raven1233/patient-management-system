@@ -1,6 +1,6 @@
 # Curalink-Patient Appointment Management System built using NEXT JS, Tailwind CSS, Shadcn, Twilio, and Appwrite cloud:-
 
-Curalink is a patient management system where user(patients) can ask for an appointment with their preferred doctor by providing their past medical history and details of their current ailment. Once requested, an admin can then either schedule or cancel that particular appointment request, both of which the user will be notified via an SMS sent to their provided phone number during registration.
+Curalink is a patient management system where user(patients) can ask for an appointment with their preferred doctor by providing their past medical history and details of their current ailment. Once requested, an admin can then either schedule or cancel that particular appointment request, both of which the user will be notified via an SMS sent to their provided phone number during registration. The passkey to access the admin page is <b>12345</b>.
 
 # What i learnt in this project:-
 1) Improved understanding of web development using Next JS with Typescript and Tailwind.
@@ -12,8 +12,18 @@ Curalink is a patient management system where user(patients) can ask for an appo
 # Live version of the app:- [Link](https://patient-management-system-wheat.vercel.app/)
 
 # Screenshots of the app:-
-I will upload the screenshots later for now you can view the app using the above link.
-
+<p><b>Landing Page:-</b></p>
+<img src="./ss/homepage.png" alt="pic1" />
+<p><b>Registration Page:-</b></p>
+<img src="./ss/register1.png" alt="reg1" />
+<img src="./ss/register2.png" alt="reg2" />
+<img src="./ss/register3.png" alt="reg3" />
+<p><b>Appointment Schedule Page:-</b></p>
+<img src="./ss/appointment-schedule.png" alt="app1" />
+<p><b>Appointment Confirmation Page:-</b></p>
+<img src="./ss/confirmation.png" alt="app2" />
+<p><b>Admin Page:-</b></p>
+<img src="./ss/admin.png" alt="ad1" />
 
 # Next.js + Tailwind CSS Example
 
