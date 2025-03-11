@@ -1,6 +1,6 @@
 # Curalink-Patient Appointment Management System built using NEXT JS, Tailwind CSS, Shadcn, Twilio, and Appwrite cloud:-
 
-Curalink is a patient management system where user(patients) can ask for an appointment with their preferred doctor by providing their past medical history and details of their current ailment. Once requested, an admin can then either schedule or cancel that particular appointment request, both of which the user will be notified via an SMS sent to their provided phone number during registration. The passkey to access the admin page is <b>12345</b>.
+Curalink is a patient management system where user(patients) can ask for an appointment with their preferred doctor by providing their past medical history and details of their current ailment. Once requested, an admin can then either schedule or cancel that particular appointment request, both of which the user will be notified via an SMS sent to their provided phone number during registration. The passkey to access the admin page is <b>123456</b>.
 
 # What i learnt in this project:-
 1) Improved understanding of web development using Next JS with Typescript and Tailwind.
